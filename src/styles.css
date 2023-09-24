@@ -1,8 +1,8 @@
-h1 {
-  font-family: "poppins";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 96px;
-  line-height: 144px;
+header {
+    background-image: url('../src/images/IMG_1113.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+
+
 
